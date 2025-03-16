@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ritacarita
+- 👋 Hi, I’m @Rita 
 - 👀 I’m interested in changing careers.
 - 🌱 I’m currently learning Python but I want to learn more programming languages.
 - 💞️ I’m looking to collaborate on ...
